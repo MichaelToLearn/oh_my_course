@@ -1,7 +1,7 @@
 # oh_my_course
  【北理工】填一个excel表格就能抢课的python脚本。
 ## 使用
-环境：`python 3`
+环境：`python 3`  
 依赖：
 - xlrd
 - requrests
